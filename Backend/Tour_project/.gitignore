@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+.env/
+
+# Environment Variables
+.env
+*.env
+
+# Django
+*.log
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+
+# Migrations (optional - keep if needed)
+# */migrations/
+
+# Admin/media uploads
+/media
+
+# Static files (collected)
+/staticfiles
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PyCharm
+*.iml
+
+# Coverage / testing
+.coverage
+htmlcov/
+
+# # Node (if using React frontend)
+# node_modules/
+# build/
+# dist/
+
+# Misc
+*.bak
+*.swp
